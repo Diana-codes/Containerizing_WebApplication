@@ -4,5 +4,4 @@ Docker Image
 You can view Image from DockerHub, DockerHub Image:https://hub.docker.com/repository/docker/ruzindana/my_todo/general
 
 Presentation slides
-You can view the slides using canva. Here is the Link:https://www.canva.com/design/DAGB8kigZPA/FWPfW4F1D_UQswiMHBEB5w/edit?layoutQuery=yellow+and+purple
-utm_content=DAGBNkyFank&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+You can view the slides using canva. Here is the Link:https://www.canva.com/design/DAGB8kigZPA/FWPfW4F1D_UQswiMHBEB5w/edit?utm_content=DAGB8kigZPA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
