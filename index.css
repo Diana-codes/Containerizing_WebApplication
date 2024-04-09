@@ -1,0 +1,60 @@
+
+body {
+    font-family: sans-serif;
+    background: linear-gradient(135deg, rgb(227, 6, 183) 0%, rgb(155, 81, 224) 100%);
+  }
+
+  .homepage{
+    width:100%;
+
+  }
+  .main {
+    background:white;
+    text-align: center;
+    margin-top: 22vh;
+    padding: 80px;
+    box-shadow: 1px 1px 8px 4px;
+    border-radius: 20px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .add-task-button {
+    background-color: #007bff;
+    color: #fff; 
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  .add-task-button:hover {
+    background-color: #0056b3; 
+  }
+  
+  .task-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  .task-item input[type="checkbox"] {
+    margin-right: 8px;
+  
+  }
+  .task-item {
+    margin-bottom: 10px; 
+  }
+  .completed {
+    text-decoration: line-through;
+    color: #000; ;
+  }
+  input{
+    padding: 6px;
+   border-radius: 6px;
+   border: 1px solid #000;
+  }
+  .delete-button {
+  background-color:blueviolet;
+  }
+  .incomplete-button {
+  background-color: darkcyan;
+  }
